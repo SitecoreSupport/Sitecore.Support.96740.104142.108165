@@ -1,9 +1,8 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00C78E0E-4EFF-4163-B4C3-A7D16E48EC5E}") = "Sitecore.Support.104142.108165", "Sitecore.Support.104142.108165\Sitecore.Support.104142.108165.csproj", "{168B88D1-AFE8-413A-947F-8C3E811E57CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Support.96740.104142.108165", "Sitecore.Support.104142.108165\Sitecore.Support.96740.104142.108165.csproj", "{168B88D1-AFE8-413A-947F-8C3E811E57CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
