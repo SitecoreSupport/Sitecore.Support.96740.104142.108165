@@ -1,5 +1,5 @@
 # Sitecore.Support.96740.104142.108165
-**96740**: Dependencies are not indexed if referring item is exluded from indexing.
+**96740**: Dependencies are not indexed if referring item is excluded from indexing.
 
 **104142** (also known as 108165): The search index uses only the first crawler that is assigned to it and ignores any other crawlers.
 
