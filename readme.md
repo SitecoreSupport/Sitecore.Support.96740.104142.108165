@@ -1,5 +1,7 @@
-# Sitecore.Support.104142.108165
-The search index uses only the first crawler that is assigned to it and ignores any other crawlers
+# Sitecore.Support.96740.104142.108165
+**96740**: Dependencies are not indexed if referring item is exluded from indexing.
+
+**104142** (also known as 108165): The search index uses only the first crawler that is assigned to it and ignores any other crawlers.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.104142.108165/blob/master/LICENSE).  
